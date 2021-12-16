@@ -1,6 +1,6 @@
 # parameters
-ARG REPO_NAME="<my-program>"
-ARG DESCRIPTION="<my-program>"
+ARG REPO_NAME="<my-program1>"
+ARG DESCRIPTION="<my-program1>"
 ARG MAINTAINER="<giacomocavour> (<jakob_neu@web.de>)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
